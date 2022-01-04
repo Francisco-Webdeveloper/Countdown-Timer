@@ -1,7 +1,9 @@
 # Countdown-Timer
 
 ## Background & Objectives
-In this project we create a countdown timer that show us how many minutes/seconds are left in a specific task. 
+In this project we create a countdown timer that show us how many minutes/seconds are left in a specific task and at what time does it finish.
+
+https://user-images.githubusercontent.com/67716187/148101119-a9688156-092d-4f83-835f-4711433c1e9d.mov
 
 ## Technologies
 Project created with:
